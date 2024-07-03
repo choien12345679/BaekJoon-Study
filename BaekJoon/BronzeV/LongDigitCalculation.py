@@ -1,3 +1,4 @@
+# 백준 2338번 긴자리 계산
 a=int(input())
 b=int(input())
 
